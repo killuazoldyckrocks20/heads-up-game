@@ -1,5 +1,7 @@
 # 👑 Heads Up! — The Ultimate Party Charades Web App
 
+> 🎮 **Play Live Now:** **[https://killuazoldyckrocks20.github.io/heads-up-game/](https://killuazoldyckrocks20.github.io/heads-up-game/)**
+
 A feature-rich, high-energy party charades game built for mobile smartphones, tablets, and desktop browsers. Pick a deck, place the phone on your forehead facing your friends, and tilt down to score or tilt up to pass as your friends shout clues, dance, sing, and act it out!
 
 ---
